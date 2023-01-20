@@ -1,0 +1,44 @@
+INSERT INTO "post"(
+  "title",
+  "date",
+  "content",
+  "author"
+  ) VALUES (
+  'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+  '2022-12-15',
+  'Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit exercitationem ab modi magni, voluptates, consequatur est eum voluptate sapiente blanditiis reiciendis numquam pariatur. Cumque eaque quidem architecto nam, deserunt mollitia harum nisi delectus possimus placeat dolor numquam. Deserunt commodi, perferendis dignissimos, odio repudiandae cum velit voluptate quas sed illo dicta, quasi doloribus aperiam accusantium veniam doloremque harum? Aliquam blanditiis suscipit esse assumenda, perspiciatis dignissimos cupiditate et non ullam tempora nobis nisi? Facere repellendus at porro corporis. Sint commodi fugiat similique eius dolorem modi, qui fugit molestiae deserunt facere aliquid cupiditate, assumenda illum quia perferendis itaque error nobis doloremque? Molestias totam perspiciatis rerum natus quasi commodi blanditiis, architecto quidem incidunt dolor reiciendis minima adipisci nam. Repellendus ducimus quibusdam aliquam aperiam quae, modi architecto aliquid quam harum cum accusamus nam. Itaque, quia laboriosam distinctio quam dignissimos nesciunt modi perspiciatis soluta eaque error corporis vel vero officia? Iste rem, quaerat magnam, tempora est eveniet ipsa at accusamus voluptatem enim, earum itaque beatae! Cupiditate quis illum voluptatum placeat alias asperiores delectus similique iste minima aperiam modi deserunt est suscipit voluptate sequi mollitia earum consequatur, ipsum provident culpa, nihil perspiciatis? Iusto voluptate voluptatum veritatis ad recusandae eveniet repellendus non placeat nulla beatae, saepe sequi asperiores officiis minus repellat, modi officia pariatur doloribus nisi labore illo. Nesciunt nemo dolor quis cupiditate voluptatem. Voluptatibus consectetur quisquam totam, doloremque voluptatum alias quaerat quos delectus similique vitae sunt architecto perferendis iste! Dolorem animi consequatur ratione nostrum ut a iusto explicabo illum, dolores necessitatibus, amet accusamus. Quo tempore odio magni maiores eligendi non temporibus blanditiis enim! Obcaecati consequatur odio ipsum necessitatibus cumque non consectetur eum voluptas debitis perferendis delectus unde alias quis at dignissimos molestiae numquam itaque assumenda, enim reprehenderit dolor blanditiis excepturi. Distinctio aliquid eum, iure iste nemo beatae temporibus nisi dolor, laudantium harum earum debitis quam assumenda facere ullam ea eius nesciunt in. Sapiente unde doloremque tempora, rem doloribus nihil consequuntur corrupti quis, est iusto cum, eos libero dolore sequi temporibus. Nesciunt nostrum numquam quae beatae, minus unde quasi blanditiis vel non consequuntur atque, est repellat officia qui aut ratione deserunt accusamus doloremque dolore, ab minima nihil animi necessitatibus! Modi mollitia non quae deserunt assumenda pariatur nihil voluptate excepturi quos ad. Quaerat maiores labore omnis facere, impedit possimus, perspiciatis quisquam expedita, dolorem temporibus doloremque vitae eos odio commodi. Enim delectus cumque dolorum asperiores suscipit maiores unde ex dolore culpa eaque id quibusdam itaque aut molestias quae nemo, dolorem magni numquam earum doloribus! Quis, consectetur. Cumque odio inventore, suscipit possimus incidunt, recusandae omnis fugiat cupiditate, cum nemo nihil et? Iusto vitae, aspernatur odit ratione facilis suscipit laboriosam quia placeat dolor quaerat doloribus? Beatae necessitatibus dolore sequi aspernatur incidunt modi tempore nulla animi possimus saepe atque deserunt vero recusandae assumenda similique accusamus dolores eius, qui et repellendus, odio inventore sunt blanditiis. Deleniti, fuga? Aliquid illo atque earum quasi, mollitia totam nostrum expedita. Doloremque aut optio assumenda hic placeat consequatur quidem quis asperiores eveniet maiores! Ea cumque earum unde. Molestias inventore veniam similique temporibus soluta facere perferendis odit modi fuga vero.',
+  'Jean Bob'
+);
+
+INSERT INTO "post"(
+  "title",
+  "date",
+  "content",
+  "author"
+  ) VALUES (
+  'Autem, doloribus.',
+  '2022-12-22',
+  'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consequatur, corrupti perspiciatis fugiat dolorum labore voluptatibus quo ad voluptatem laudantium numquam, placeat molestias voluptates saepe. Fugit, placeat voluptatum vel doloremque quia veritatis nemo obcaecati ad consequuntur assumenda omnis voluptatem inventore facere itaque nam provident suscipit quis nulla explicabo reprehenderit nisi dolore, corrupti velit deleniti! Iure maiores sint quam deserunt assumenda esse, excepturi, aliquam soluta praesentium nulla ea? Nulla, iure consectetur. Porro error optio, beatae quam rerum laboriosam totam provident, similique tenetur dolores blanditiis harum! Inventore, quas delectus voluptatem a quidem quis et debitis totam necessitatibus adipisci nulla fuga dolore aliquid, similique dignissimos. Amet quibusdam rem aut voluptas quos, dicta, pariatur exercitationem neque incidunt minima voluptatum beatae culpa harum ducimus repellendus eligendi et nesciunt quisquam illum! Voluptas quia voluptates blanditiis, molestias repellat vitae. Odit nihil iusto voluptatem aperiam error veritatis beatae facilis dignissimos, perferendis laboriosam totam provident perspiciatis ipsam id assumenda voluptas libero magnam minima asperiores? Dicta possimus reprehenderit reiciendis. Consectetur voluptatum, inventore quibusdam nemo temporibus unde rerum. Aut, harum! Ullam, necessitatibus a quae dolorem, sint quis magni veritatis sed eaque temporibus amet. Odio eius sunt accusantium nostrum repudiandae doloremque delectus unde numquam! Ratione neque cumque id culpa, voluptas voluptatem. Voluptatibus tenetur, porro quod eius commodi dolor id rerum eaque saepe ut quam voluptates vero, mollitia expedita modi alias delectus eligendi aperiam itaque quis quas ipsam hic enim fuga! Voluptatum totam sit aliquid impedit molestias harum optio expedita illo, numquam ex dolores dicta. Esse doloremque, laudantium tempore, molestias quae est assumenda itaque ut dolorem dicta deserunt omnis nulla eos minus aliquid iusto impedit fugit perspiciatis dolores asperiores nemo, provident quam? Dolores eum numquam cum a minima aperiam consectetur facilis hic? Quis dignissimos in eveniet aliquid deserunt eaque sequi? Iure quo quisquam maxime aut voluptas nam autem minus architecto, odio non aliquam distinctio soluta necessitatibus deserunt tempora ipsum ut obcaecati nihil quidem. Iusto, reiciendis quas illo, neque eos fuga ullam quia, quasi enim alias optio officia rem magnam! Est nostrum neque labore aperiam architecto voluptatem voluptate quae in laudantium nisi veritatis numquam perferendis, provident earum, nam odit, libero officiis perspiciatis corrupti aspernatur at quia? Saepe repellendus molestiae architecto facilis velit sequi omnis, eligendi amet nesciunt ipsam expedita quia earum ullam in quasi voluptate doloribus. Placeat expedita amet eaque facere voluptate alias eveniet asperiores doloribus consequatur suscipit nemo, architecto, eligendi consequuntur quaerat animi recusandae! Sed dolor expedita dolores, modi vero molestias et quod pariatur vitae voluptatem porro maiores, rem quisquam officiis neque impedit vel illum doloribus eveniet eligendi in fugit nostrum nihil quos! Autem, praesentium iste maxime omnis harum, id molestias magnam totam nemo ut deleniti, quas nostrum vel eum! Sit cum quae, vero nesciunt temporibus a deleniti similique voluptatem praesentium, architecto vel inventore repellat minima maxime nisi dolor amet ducimus explicabo. Quidem nesciunt non ullam sapiente nobis doloremque nostrum sit amet sint at quod molestias magni nisi cumque esse, eos vel perferendis consectetur modi, laboriosam in? Nostrum veritatis dicta, dolorem eum incidunt vel esse numquam minima neque optio, magnam, provident exercitationem aspernatur delectus.',
+  'Michel Michelizable'
+);
+
+
+INSERT INTO "post"(
+  "title",
+  "date",
+  "content",
+  "author"
+  ) VALUES (
+  'Sapiente nesciunt labore',
+  '2022-12-22',
+  'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente nesciunt labore, architecto libero veniam sit cum totam magni minus commodi illo itaque obcaecati expedita? Magni ea nostrum non repellat hic.',
+  'Darth Vador'
+);
+
+INSERT INTO "comment" ( "post_id", "author", "content") VALUES (1, 'xX_bgDu75_Xx',  'C''est génial !');
+INSERT INTO "comment" ( "post_id", "author", "content") VALUES (1, 'lolo_36000',  'OMG OUF !!');
+INSERT INTO "comment" ( "post_id", "author", "content") VALUES (2, 'martinmartin',  'cet article me donne la banane !!');
+
+INSERT INTO "user" ("username") VALUES ( 'michel');
+INSERT INTO "user" ("username") VALUES ( 'sean');
+INSERT INTO "user" ("username") VALUES ( 'bob');

@@ -1,0 +1,61 @@
+<!-- INCLUDE HEADER -->
+<%# pour aller chercher une vue partielle %>
+<%- include('./partials/header.ejs') %>
+<!-- FIN INCLUDE HEADER -->
+
+<div class="container">
+  <!-- START ARTICLE -->
+  <div class="card article">
+    <div class="card-content">
+        <div class="media">
+            <div class="media-content has-text-centered">
+                <p class="title article-title"><%= post.title %></p>
+                <div class="tags has-addons level-item">
+                    <span class="tag is-rounded is-info"><%= post.author %></span>
+                </div>
+            </div>
+        </div>
+        <div class="content article-body">
+          <%= post.content %>
+        </div>
+    </div>
+</div>
+<!-- END ARTICLE -->
+
+<div class="container">
+    <h3>Envoyer un commentaire :</h3>
+    <form class="form" method="POST">
+        <div class="field">
+          <label class="label">Pseudo</label>
+          <div class="control">
+            <input name="author" class="input">
+          </div>
+        </div>
+        <div class="field">
+          <label class="label">Message</label>
+          <div class="control">
+            <textarea name="content" class="textarea is-medium"></textarea>
+          </div>
+        </div>
+        <div class="control">
+            <button type="submit" class="button is-link is-fullwidth has-text-weight-medium is-medium">Envoyer commentaire</button>
+          </div>
+    </form>
+</div>
+
+<div class="container">
+    <% for(let comment of comments) { %> 
+        <div class="card article">
+
+            <div class="card-content">
+                <div class="tags has-addons level-item">
+                    <span class="tag is-rounded is-info"><%= comment.author %></span>
+                </div>
+            <%= comment.content %>
+            </div>
+        </div>
+    <% } %>
+    </div>
+</div>
+
+<%- include('./partials/footer.ejs') %>
